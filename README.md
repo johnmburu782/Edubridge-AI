@@ -152,3 +152,4 @@ The dashboard endpoint (`http://localhost:8000/api/v1/dashboard`) reads the samp
 ### Current implementation boundary
 
 Student email/password registration and login, and enrollment in the seeded Mathematics, Chemistry, and Biology learning paths, are implemented but require the API and database to be running. The dashboard snapshot is shared demo data and is not personalized. User-specific progress, live opportunity data, AI functionality, and demonstration accounts remain on the roadmap.
+# Edubridge-AI
